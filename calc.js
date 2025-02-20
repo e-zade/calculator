@@ -163,6 +163,7 @@ function showSelectedOperator() {
     }
 }
 
+
 function calculate(num1, num2, operator) {
 
     if (operator === "+") {
